@@ -4,5 +4,6 @@
     <string name="action_settings">设置</string>
     <string name="menu_home">主菜单</string>
     <string name="menu_gallery">图库</string>
+    <string name="menu_slideshow">幻灯片播放</string>
     <string name="app_name">OC展柜</string>
 </resources>
